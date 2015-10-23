@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raw\n"
+"POT-Creation-Date: 2014-11-04 12:14+0100\n"
+"PO-Revision-Date: 2015-10-23 15:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: UDTHEMES <bars38@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_ex;_n:1,2;_x:1,2c;"
+"_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: uk_UA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Page Not Found"
+msgstr "Сторінка не знайдена"
+
+#: ../404.php:26
+msgid ""
+"Oops! The page you requested could not be found. Perhaps searching will help."
+msgstr "Упс! Сторінка яку ви шукаєте не знайдена. Можливо вам допоможе пошук."
+
+#: ../comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Цей допис захищено паролем. введіть пароль для доступу до контенту."
+
+#: ../comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Коментарій"
+msgstr[1] "%1$s Коментарів"
+
+#: ../comments.php:50
+msgid "&lt; Older Comments"
+msgstr "&lt; Давніші коментарі"
+
+#: ../comments.php:51
+msgid "Newer Comments &gt;"
+msgstr "Новіші коментарі &gt;"
+
+#: ../comments.php:67
+msgid "Name"
+msgstr "Ім'я"
+
+#: ../comments.php:68
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../comments.php:69
+msgid "http://"
+msgstr "http://"
+
+#: ../comments.php:76
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "Обов'язкові поля позначені %s"
+
+#: ../comments.php:80
+msgid "Drop a comment"
+msgstr "Залиште коментар"
+
+#: ../comments.php:81
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Залиште відповідь на %s"
+
+#: ../comments.php:82
+msgid "Cancel Reply"
+msgstr "Відмінити відповідь"
+
+#: ../comments.php:83
+msgid "Post Comment"
+msgstr "Відправити  коментар"
+
+#: ../comments.php:84
+msgid "Your email address will not be published."
+msgstr "Ваш email не буде оприлюднено."
+
+#: ../comments.php:87
+msgid "Message"
+msgstr "Повідомлення"
+
+#: ../footer.php:32
+msgid "Back to top"
+msgstr "Повернутися нагору"
+
+#: ../functions.php:121
+msgid "Primary Navigation"
+msgstr "Головне меню"
+
+#: ../functions.php:210
+msgid "<abbr title='Display Options'>Display Opt...</abbr>"
+msgstr "<abbr title='Опція відображення'>Опція відображення...</abbr>"
+
+#: ../functions.php:229 ../functions.php:639
+msgid "<abbr title='Slide Link URL'>Slide Link U...</abbr>"
+msgstr "<abbr title='Посилання слайдеру URL'>Посилання слайдеру U...</abbr>"
+
+#: ../functions.php:233
+msgid "Video URL"
+msgstr "Відео URL"
+
+#: ../functions.php:250
+msgid "ERROR: Video URL must be set!"
+msgstr "ПОМИЛКА: Відео URL має бути встановлено!"
+
+#: ../functions.php:284
+msgid "Post Options"
+msgstr "Налаштунки допису"
+
+#: ../functions.php:364
+msgid "Page Options"
+msgstr "Налаштунки сорінки"
+
+#: ../functions.php:435
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr "Категорії портфоліо"
+
+#: ../functions.php:436
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr "Категорія портфоліо"
+
+#: ../functions.php:437
+msgid "Search Portfolio Categories"
+msgstr "Знайти категорії портфоліо"
+
+#: ../functions.php:438
+msgid "Popular Portfolio Categories"
+msgstr "Популярні категорії портфоліо"
+
+#: ../functions.php:439
+msgid "All Portfolio Categories"
+msgstr "Усі категорії портфоліо"
+
+#: ../functions.php:442
+msgid "Edit Portfolio Category"
+msgstr "Редагувати категорію портфоліо"
+
+#: ../functions.php:443
+msgid "Update Portfolio Category"
+msgstr "Оновити категорію портфоліо"
+
+#: ../functions.php:444
+msgid "Add New Portfolio Category"
+msgstr "Додати нову категорію портфоліо"
+
+#: ../functions.php:445
+msgid "New Portfolio Category Name"
+msgstr "Нова назва категорія портфоліо"
+
+#: ../functions.php:447
+msgid "Add or remove Portfolio Categories"
+msgstr "Додати чи видалити категорії портфоліо"
+
+#: ../functions.php:448
+msgid "Choose from the most used Portfolio Categories"
+msgstr "Оберіть серед частіш використовуємих категорій портфоліо"
+
+#: ../functions.php:449
+msgid "No Portfolio Categories found."
+msgstr "Категорії портфоліо не знайдені."
+
+#: ../functions.php:450
+msgid "Portfolio Categories"
+msgstr "Категорії портфоліо"
+
+#: ../functions.php:471 ../functions.php:472
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: ../functions.php:473
+msgid "All Projects"
+msgstr "Всі проекти"
+
+#: ../functions.php:474 ../functions.php:475
+msgid "Add New Project"
+msgstr "Додати новий проект"
+
+#: ../functions.php:476
+msgid "Edit Project"
+msgstr "Редагувати проект"
+
+#: ../functions.php:477
+msgid "New Project"
+msgstr "Новий проект"
+
+#: ../functions.php:478
+msgid "View Project"
+msgstr "Подивитися проект"
+
+#: ../functions.php:479
+msgid "Search Projects"
+msgstr "Знайти проект"
+
+#: ../functions.php:480
+msgid "No Projects found"
+msgstr "Проект не знайдено"
+
+#: ../functions.php:481
+msgid "No Projects found in Trash"
+msgstr "Проект не знайдено у кошику"
+
+#: ../functions.php:491
+msgctxt "URL slug"
+msgid "portfolio"
+msgstr "portfolio"
+
+#: ../functions.php:527
+msgid "Portfolio Options"
+msgstr "Налаштунки портфоліо"
+
+#: ../functions.php:608
+msgid "Shortcode Sliders"
+msgstr "Скорочення слайдерів"
+
+#: ../functions.php:609
+msgid "Shortcode Slider"
+msgstr "Скорочення слайдеру"
+
+#: ../functions.php:610
+msgid "All Shortcode Sliders"
+msgstr "Усі скорочення слайдерів"
+
+#: ../functions.php:611
+msgid "Add New Shortcode Slider"
+msgstr "Додати нове скорочення слайдеру"
+
+#: ../functions.php:612
+msgid "Edit Shortcode Slider"
+msgstr "Редагувати скорочення слайдеру"
+
+#: ../functions.php:613
+msgid "New Shortcode Slider"
+msgstr "Нове скорочення слайдеру"
+
+#: ../functions.php:614
+msgid "View Shortcode Slider"
+msgstr "Переглянути скорочення слайдеру"
+
+#: ../functions.php:615
+msgid "Search Shortcode Sliders"
+msgstr "Знайти скорочення слайдеру"
+
+#: ../functions.php:616
+msgid "No Shortcode Sliders found"
+msgstr "Не знайдено скорочення слайдеру"
+
+#: ../functions.php:617
+msgid "No Shortcode Sliders found in Trash"
+msgstr "В кошику не знайдено скорочення для слайдеру"
+
+#: ../functions.php:618
+msgid "Sc. Sliders"
+msgstr "Sc. Sliders"
+
+#: ../functions.php:675
+msgid "Edit"
+msgstr "Редагувати"
+
+#: ../functions.php:1387
+msgid "Please set the id attribute."
+msgstr "Будь ласка встановіть id."
+
+#: ../functions.php:1464 ../loop-index-regular.php:93 ../page-contact.php:169
+#: ../page-sidebar.php:104 ../page.php:106 ../part-front-page-regular.php:83
+#: ../project-default.php:92 ../single.php:103
+msgid "Please upload multiple images to the slider."
+msgstr "Будь ласка завантажте багато зображень до слайдеру."
+
+#: ../header.php:32
+#, php-format
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+#: ../image.php:67 ../loop-index-grid.php:39 ../loop-index-regular.php:169
+#: ../part-front-page-full-width-media.php:360
+#: ../part-front-page-regular.php:318 ../single.php:162
+msgid "Comments:"
+msgstr "Коментарі:"
+
+#: ../image.php:68 ../loop-index-grid.php:40 ../loop-index-regular.php:170
+#: ../part-front-page-full-width-media.php:361
+#: ../part-front-page-regular.php:319 ../single.php:163
+msgid "Posted by:"
+msgstr "Додано:"
+
+#: ../index.php:51 ../index.php:55
+msgid "Blog Archives"
+msgstr "Архів блогу"
+
+#: ../loop-index-grid.php:44 ../loop-index-regular.php:175
+#: ../part-front-page-full-width-media.php:365
+#: ../part-front-page-regular.php:323
+msgid "Read more"
+msgstr "Читаті далі"
+
+#: ../loop-index-grid.php:44 ../loop-index-regular.php:175
+#: ../part-front-page-full-width-media.php:365
+#: ../part-front-page-regular.php:323
+msgid "Read more &rarr;"
+msgstr "Читати далі &rarr;"
+
+#: ../loop-index-grid.php:57 ../loop-index-regular.php:184
+msgid "&laquo; Older posts"
+msgstr "&laquo; Давніші статті"
+
+#: ../loop-index-grid.php:58 ../loop-index-regular.php:185
+msgid "Newer posts &raquo;"
+msgstr "Новіші статті &raquo;"
+
+#: ../loop-index-regular.php:171 ../single.php:164
+msgid "In:"
+msgstr "У:"
+
+#: ../page-contact.php:18
+msgid "Sorry, the form was not submitted as you don't seem to be a human."
+msgstr ""
+"Вибачьте, повідомлення не відправлене, бо є сумніви чи ви справді людина."
+
+#: ../page-contact.php:24
+msgid "Please enter your name."
+msgstr "Будь ласка, введіть ваше ім'я"
+
+#: ../page-contact.php:31
+msgid "Please enter your email address."
+msgstr "Будь ласка, введіть ваш email."
+
+#: ../page-contact.php:34
+msgid "You entered an invalid email address."
+msgstr "Ви ввели невірний email."
+
+#: ../page-contact.php:43
+msgid "Please enter a message."
+msgstr "Бідь ласка введіть повідомлення."
+
+#: ../page-contact.php:239
+msgid "Leave this field blank if you're human"
+msgstr "Залиште це поле порожнім якщо ви людина"
+
+#: ../page-contact.php:243
+msgid "Your Name*"
+msgstr "Ваше ім'я*"
+
+#: ../page-contact.php:244
+msgid "E-mail*"
+msgstr "E-mail*"
+
+#: ../page-contact.php:245
+msgid "Subject"
+msgstr "Тема"
+
+#: ../page-contact.php:246
+msgid "Message*"
+msgstr "Повідомлення*"
+
+#: ../page-contact.php:249
+msgid "Send"
+msgstr "Відправити"
+
+#: ../part-front-page-full-width-media.php:116
+#: ../project-full-width-media.php:113
+msgid "Please upload multiple images to the slider or set a featured image."
+msgstr ""
+"Будь ласка, завантажте багато зображень або встановіть головне зображення."
+
+#: ../part-portfolio-fixed-width-grid.php:85
+#: ../part-portfolio-full-width-grid.php:51
+msgid "All"
+msgstr "Всі"
+
+#: ../project-default.php:180 ../project-full-width-media.php:220
+#: ../project-without-featured-media.php:74
+msgid "Back to Grid"
+msgstr "Назад до сітки"
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "Результат пошуку для \"%s\""
+
+#: ../search.php:27
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: ../search.php:28
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Вибачте, але за вашими пошуковими критеріями нічого не знайдено. Спробуйте "
+"ще раз змінивши слова пошуку."
+
+#: ../searchform.php:12
+msgid "Search"
+msgstr "Пошук"
+
+#: ../searchform.php:13
+msgctxt "search button"
+msgid "Go"
+msgstr "Шукати"
+
+#: ../sidebar.php:22
+msgid "Archives"
+msgstr "Архіви"
+
+#: ../sidebar.php:29
+msgid "Meta"
+msgstr "Мета"
